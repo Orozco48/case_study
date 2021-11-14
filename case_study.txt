@@ -1,0 +1,66 @@
+Accounting software 
+
+Company Name: FreshBooks 
+
+Incorporated:
+ in 2004, this Toronto company was 
+founders:  Levi Cooperman, Mike McDarment, and Jose Sawada.
+
+The idea 
+Idea Came when McDarment had a small designer’s company and started have in issues with inventory and accounting. So he decided to code his own accounting software, eventual he started offering his program and was able to get external investors. 
+
+Funding:
+The company started funding itself until 2014 were it raised investments up to $30 million by the Venture capital firm Oak Investment partners. today it has secured $80.75 million in a Series E round of funding, as well as $50 million in debt financing. the company is meant to be used by small business owners to help have control and record of income and expenses, also facilitate the development of charging and sending invoices. J.P. Morgan, Gaingels, BMO Technology & Innovation, Banking Group and Manulife also participated investment, along with platform partner and new backer Barclays. With the new capital injection, FreshBooks has now raised a total of more than $200 million in funding over its lifetime.
+##Business Activities:
+
+what specific financial problem is the company or project trying to solve?
+The company is trying to make accounting accessible and easy to use for small business or free lancers by making invoices, have register of incomes and expenses, and track progress, it also automatizes several accounting processes 
+
+Who is the company's intended customer? Is there any information about the market size of this set of customers?
+ The customer market is intended to small business, freelancers, and its expected to grow up to $1,576 million by 2027 as the growing self employment and entrepreneur’s demographic is raising at a accelerated past
+
+What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?
+FreshBooks has a very friendly and fun user interface for the user and can be used in computer as well as in mobile devices. It easy to set up and register with some information from your company. Unfortunately, in functions and prices the difference is not very wide.
+
+Which technologies are they currently using, and how are they implementing them? 
+This API was originally done on PHP, but the backend services is on Python.
+Landscape:
+What domain of the financial industry is the company in?
+Accounting And Expense management
+What have been the major trends and innovations of this domain over the last 5-10 years?
+The accounting streamline saves time and ensures thar the transaction is done effectively by automatizing the process and avoiding human errors.
+It has also impacted the market valuated in a $12.01 billion in 2020. Showing also a increase in small business .
+What are the other major companies in this domain?
+QuickBoook
+Xerox
+SAPSE
+Wave
+
+RESULTS:
+What has been the business impact of this company so far?:
+The recent Valuation of 1 billion in August 2021, and the rapid growth in less then 10 years.
+
+What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+Success is measured in this industry besd un the usesrs using this APP. Fresh boo has grown significantly  having over 3 million active users, making it the 3rd larges after QuickBooks  and Xerox
+
+ How is your company performing relative to competitors in the same domain?:
+FReshbooks performers as good as its competitors, this is because the app is targeted to small business which, these are significantly a big amount and its been increasing every year.
+ 
+RECOMMENDATIONS 
+If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+It would be to increase the functions for bigger businesses, an unlimited client to input in your system. And reduction fee for every transaction done through the app.
+Why do you think that offering this product or service would benefit the company?
+The client would increase ad not only small business would be infested in using the service. 
+What technologies would this additional product or service utilize?
+The technology can  be the same, no need to change it. just the market target. 
+
+Sources:
+•	https://www.alliedmarketresearch.com/personal-finance-software-market 
+•	https://en.wikipedia.org/wiki/FreshBooks
+•	https://www.mordorintelligence.com/industry-reports/accounting-software-market
+•	https://www.hubspot.com/comparisons/freshbooks-vs-quickbooks
+•	https://stackshare.io/freshbooks
+
+•	Codat's guide to the accounting software market
+https://www.codat.io/wp-content/uploads/2020/07/Codat_Guide-to-Accounting-Software-Market_July-2020.pdf?utm_source=Codat&utm_campaign=8afcd83a63-EMAIL_CAMPAIGN_2020_01_13_09_51_COPY_01&utm_medium=email&utm_term=0_bc1e057049-8afcd83a63-
+
